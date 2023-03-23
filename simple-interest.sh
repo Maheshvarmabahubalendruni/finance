@@ -15,6 +15,7 @@
 
    # Output:
    # simple interest = p*t*r
+   #code for claculating simple interest
 
    echo "Enter the principal:"
    read p
